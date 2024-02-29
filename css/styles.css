@@ -12,6 +12,7 @@ li {
   flex-wrap: wrap;
   gap: 24px;
   justify-content: space-between;
+  width: 828px;
 }
 
 .gallery-image {
