@@ -15,8 +15,8 @@ li {
 }
 
 .gallery-image {
-  width: 360px;
-  height: 200px;
+  width: 260px;
+  height: 150px;
   object-fit: cover;
   transition: transform 0.3s ease;
 }
