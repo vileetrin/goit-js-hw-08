@@ -23,5 +23,5 @@ li {
 }
 
 .gallery-image:hover {
-  transform: scale(1.05); /* Enlarge the image on hover */
+  transform: scale(1.05);
 }
