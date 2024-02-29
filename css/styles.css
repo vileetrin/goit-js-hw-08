@@ -11,12 +11,12 @@ li {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .gallery-image {
-  width: 260px;
-  height: 150px;
+  width: 360px;
+  height: 200px;
   object-fit: cover;
   transition: transform 0.3s ease;
 }
